@@ -1,6 +1,5 @@
 # ConvertFlow - PDF & Image Converter
 
-![ConvertFlow Logo](assets/images/logo.png)
 
 **ConvertFlow** is a modern, cross-platform mobile application built with Flutter that provides seamless conversion between PDF files and various image formats. Transform your documents effortlessly while preserving original file names.
 
@@ -111,12 +110,6 @@ lib/
 3. **Tap Convert** to combine images into PDF
 4. **Save or Share** the generated PDF file
 
-## 🎨 Screenshots
-
-| Splash Screen | Home Screen | Converter |
-|---------------|-------------|-----------|
-| ![Splash](screenshots/splash.png) | ![Home](screenshots/home.png) | ![Converter](screenshots/converter.png) |
-
 ## 🔧 Configuration
 
 ### Android Permissions
@@ -184,13 +177,6 @@ We welcome contributions! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Developer
-
-**Developed by KJ**
-
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
 
 ## 🙏 Acknowledgments
 
